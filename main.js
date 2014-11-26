@@ -1,6 +1,7 @@
 var CLIENT_ID = "18f6fc47f1a748578f2ee6860b9dcd93";
 var CLIENT_SECRET = "47152836d76c472382629653a88db427";
-var ACESS_TOKEN = "904877.18f6fc4.cc572894dfb244ea9273145d54417b1a";
+var ACESS_TOKEN = "904877.18f6fc4.cc572894dfb244ea9273145d54417b1a"; // user @julianotheiss
+//                 904877.18f6fc4.cc572894dfb244ea9273145d54417b1a
 
 var fotosQnt = 0;
 
